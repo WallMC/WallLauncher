@@ -1,2 +1,5 @@
 # WallMC
-A minecraft launcher for the people, Made in GTK3 and rust (against my own will)
+a stupid minecraft launcher written in ncurses and c++ for the 21st century 
+
+# installation
+just bing it
